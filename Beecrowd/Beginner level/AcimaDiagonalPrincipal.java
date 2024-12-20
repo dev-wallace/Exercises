@@ -1,3 +1,7 @@
+// Escreva uma função para calcular a soma dos elementos acima da diagonal principal em uma matriz 12x12.
+
+
+
 import java.util.Scanner;
 
 public class AcimaDiagonalPrincipal {

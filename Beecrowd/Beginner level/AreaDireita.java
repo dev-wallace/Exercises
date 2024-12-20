@@ -1,3 +1,4 @@
+// Escreva uma função para calcular a soma ou a média dos elementos na área direita de uma matriz 12x12.
 import java.util.Scanner;
 
 public class AreaDireita {
