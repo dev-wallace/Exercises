@@ -59,7 +59,7 @@ public class RegistroTransacoesBancarias {
 
          
 
-        // TODO: Exibir o saldo final e a lista de transações conforme a tabela de Exemplos.
+       
 
         // Fechar o scanner para evitar vazamentos de recursos
         scanner.close();
