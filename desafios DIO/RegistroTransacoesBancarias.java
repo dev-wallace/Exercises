@@ -1,3 +1,6 @@
+// Este programa simula o registro de transações bancárias, permitindo depósitos e saques.
+// Ele calcula o saldo final da conta e exibe uma lista das transações realizadas.
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
