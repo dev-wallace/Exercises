@@ -1,3 +1,5 @@
+// Este programa deve erenciar transações bancárias, calculando o saldo final e exibindo a lista de transações com o uso de classes e streams.
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
